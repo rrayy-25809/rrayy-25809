@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrayy-25809&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 <!--
 **rrayy-25809/rrayy-25809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
