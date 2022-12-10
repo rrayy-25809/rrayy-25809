@@ -6,3 +6,5 @@ Hi, I am rrayy
 - Minecraft plugin with gradle
 - simple program
 - simple website
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrayy-25809&show_icons=true)
