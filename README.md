@@ -7,4 +7,6 @@ Hi, I am rrayy
 - simple program
 - simple website
 
-
+### How to contact me
+- My email address
+- My discord server(http://discord.rrayy25809.kro.kr/)
