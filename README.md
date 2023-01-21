@@ -8,5 +8,5 @@ Hi, I am rrayy
 - simple website
 
 ### How to contact me
-- My email address
+- My email address(rrayybusiness@gmail.com)
 - My discord server(http://discord.rrayy25809.kro.kr/)
