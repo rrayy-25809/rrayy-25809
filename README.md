@@ -3,9 +3,8 @@
 Hi, I am rrayy
 
 ### What i usually make
-- Minecraft plugin with gradle
-- simple program
-- simple website
+- Minecraft plugin with gradle and java
+- simple website 
 
 ### How to contact me
 - My email address(rrayybusiness@gmail.com)
