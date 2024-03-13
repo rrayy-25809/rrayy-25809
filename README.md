@@ -1,6 +1,6 @@
 ## Welcome to the rrayy's profile
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrayy-25809&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos"/>
-Hi, I am rrayy
+Hi, I am Jun who work under the name hh
 
 
 ### What I usually make
@@ -9,4 +9,3 @@ Hi, I am rrayy
 
 ### How to contact me
 - My email address(rrayybusiness@gmail.com)
-- My discord server(http://discord.rrayy25809.kro.kr/)
