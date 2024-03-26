@@ -6,6 +6,3 @@ Hi, I am Jun who work under the name rrayy
 ### What I usually make
 - Minecraft plugin with gradle and java
 - simple website 
-
-### How to contact me
-- My email address(rrayybusiness@gmail.com)
