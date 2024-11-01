@@ -5,4 +5,12 @@ Hi, I am Jun who work under the name of rrayy
 
 ### What I usually make
 - Minecraft plugin with gradle and java
-- simple website 
+- Simple Website with Flask, JS 
+
+### What I am making RN
+- [rrayy-25809/AI-re-draw](https://github.com/rrayy-25809/AI-re-draw)
+- [rrayy-25809/random-all](https://github.com/rrayy-25809/random-all)
+
+### What I am Learning RN
+- [rrayy-25809/learn-vue](https://github.com/rrayy-25809/learn-vue)
+- [rrayy-25809/learn-network](https://github.com/rrayy-25809/learn-network)
