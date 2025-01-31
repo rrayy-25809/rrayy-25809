@@ -12,6 +12,6 @@ Hi, I'm Jun, working under the name rrayy
 ## What I wanna Learn
 
 - Typescript
-- SC, Algorism
+- SC, Algorithm
 - Vue or React
 - AI
