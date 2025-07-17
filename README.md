@@ -10,6 +10,7 @@ Hi, I'm Jun, working under the name rrayy
 ## What I wanna Learn
 - SC, Algorithm
 - AI
+- Game Development
 
 
 # 💻 Tech Stack:
