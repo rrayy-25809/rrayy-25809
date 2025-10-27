@@ -8,7 +8,7 @@ Hi, I'm Jun, working under the name rrayy
 - Simple websites with Flask and JavaScript
 - Simple program for school project
 ## What I wanna Learn
-- SC, Algorithm
+- CS, Algorithm
 - AI
 - Game Development
 
