@@ -76,10 +76,6 @@
 
 # 📊 Programming Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=rrayy-25809&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
 ![](https://nirzak-streak-stats.vercel.app/?user=rrayy-25809&theme=dark&hide_border=false&locale=ko)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rrayy-25809&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Programmers Badge](https://raw.githubusercontent.com/rrayy-25809/Programmers_Badge_Generator/main/result/result.svg?cache_buster=1)
