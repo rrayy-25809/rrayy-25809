@@ -76,7 +76,7 @@
 
 # 📊 Programming Stats:
 
-![Github Rank](https://github-readme-stats.vercel.app/api?username=rrayy-25809&theme=dark&hide_border=false&include_all_commits=false&count_private=false&locale=kr)
+![Github Rank](https://github-readme-stats-3uf9.vercel.app/api?username=rrayy-25809&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&locale=kr)
 
 ![Github Streak](https://nirzak-streak-stats.vercel.app/?user=rrayy-25809&theme=github-dark-blue&hide_border=false&locale=ko)
 
