@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 
-- Hi, I’m Taejun Ham, working under the name rrayy. u can call me Jun or R.R.A.Y.Y
-- I am Undergraduate form CUK and Dreaming Full Stack Web Developer but I Also Can make App (Based on web app), Game (Unity and Colyseus), AI (Scikit-Learn and Pytorch)
+- Hi, I’m Taejun Ham
+- I am Undergraduate form CUK
 - My Hobby is Programming and Mainstage EDM (Like Future House, Melodic Dubstep, DnB and so on)
 
 # 💻 Tech Stack:
