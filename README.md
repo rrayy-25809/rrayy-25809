@@ -75,8 +75,8 @@
 </details>
 
 # 📊 Programming Stats:
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rrayy-25809&include_all_commits=true&theme=github_dark&locale=kr)](https://github-stats-extended.vercel.app/api?username=rrayy-25809&include_all_commits=true&theme=github_dark&locale=kr)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gkaxowns9&include_all_commits=true&theme=github_dark&locale=kr)](https://github-stats-extended.vercel.app/api?username=gkaxowns9&include_all_commits=true&theme=github_dark&locale=kr)
 
-![Github Streak](https://nirzak-streak-stats.vercel.app/?user=rrayy-25809&theme=github-dark-blue&hide_border=false&locale=ko)
+![Github Streak](https://nirzak-streak-stats.vercel.app/?user=gkaxowns9&theme=github-dark-blue&hide_border=false&locale=ko)
 
 ![Programmers Badge](https://raw.githubusercontent.com/rrayy-25809/Programmers_Badge_Generator/main/result/result.svg?cache_buster=1)
