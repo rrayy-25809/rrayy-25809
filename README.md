@@ -1,4 +1,4 @@
-# ωᥱᥣᥴomᥱ, thιs ιs rrᥲყყ!👋🤗
+# Welcome to my profile!👋🤗
 
 # 💫 About Me:
 
